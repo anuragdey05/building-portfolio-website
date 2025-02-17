@@ -2,7 +2,7 @@ const mobileNav = ()=>{
 
     const headerBtn = document.querySelector('.header__bars');
     const mobileNav = document.querySelector('.mobile-nav');
-    const mobileLinks = document.querySelectorAll('.mobile__nav-link');
+    const mobileLinks = document.querySelectorAll('.mobile-nav__link');
 
     //state
     let ismobileNavOpen = false;
