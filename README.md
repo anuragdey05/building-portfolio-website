@@ -66,12 +66,9 @@ A fully responsive, mobile-first website template built with **Vite, HTML, CSS, 
 - Update styles in `/src/css/` for branding changes.
 - Edit JavaScript in `/src/js/` to add or remove interactivity.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contributing
 Feel free to fork this project and submit pull requests!
 
 ## Contact
-For any inquiries or suggestions, reach out via GitHub Issues or email me at [your-email@example.com].
+For any inquiries or suggestions, reach out via GitHub Issues or email me at [work.anuragdey@gmail.com].
 
